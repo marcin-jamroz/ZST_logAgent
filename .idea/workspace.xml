@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="718012b7-51ae-4c38-b4f8-3e59ba218aa8" name="Default" comment="" />
+    <list default="true" id="718012b7-51ae-4c38-b4f8-3e59ba218aa8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log.db" afterPath="$PROJECT_DIR$/log.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LogAgent/log.db" afterPath="$PROJECT_DIR$/out/production/LogAgent/log.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LogAgent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/LogAgent/.idea/workspace.xml" />
+    </list>
     <ignored path="LogAgent.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,7 +29,7 @@
       <file leaf-file-name="LogAgent.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/LogAgent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1532">
+            <state relative-caret-position="17">
               <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -38,14 +43,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3026">
               <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#8120#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#1710#1711#0" expanded="false" />
-                <element signature="e#1737#1738#0" expanded="false" />
-                <element signature="e#7873#7874#0" expanded="false" />
-                <element signature="e#7903#7904#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -470,14 +468,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3026">
           <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/LogAgent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#8120#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#1710#1711#0" expanded="false" />
-            <element signature="e#1737#1738#0" expanded="false" />
-            <element signature="e#7873#7874#0" expanded="false" />
-            <element signature="e#7903#7904#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3026">
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -502,20 +511,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3026">
           <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#8120#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#1710#1711#0" expanded="false" />
-            <element signature="e#1737#1738#0" expanded="false" />
-            <element signature="e#7873#7874#0" expanded="false" />
-            <element signature="e#7903#7904#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/LogAgent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1532">
+        <state relative-caret-position="17">
           <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
